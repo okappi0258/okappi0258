@@ -4,7 +4,8 @@
 **okappi0258/okappi0258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![example workflow name](https://github.com/actions/hello-world/workflows/Greet%20Everyone/badge.svg)
+![okappi0258github stats](https://github-readme-stats.vercel.app/api?username=okappi0258)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
